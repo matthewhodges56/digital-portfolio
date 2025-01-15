@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-15
+img: game.png
+alt: image-alt
+project-date: Fall 2022
+client: CSC-1200
+title: Principles of Computing
+description: Provided an overview of computing concepts, including hardware, software, and networking basics. Explored binary arithmetic, data representation, and operating systems.
+---
