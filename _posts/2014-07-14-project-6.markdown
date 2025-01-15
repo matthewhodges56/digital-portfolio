@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-14
+img: game.png
+alt: image-alt
+project-date: Fall 2024
+client: BMGT-3510
+title: Management and Organizational Behavior 
+description: Studied principles of organizational behavior, leadership, and team dynamics. Developed skills in effective communication, decision-making, and managing diverse teams.
+---
