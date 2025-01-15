@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-15
+date: 2014-07-14
 img: game.png
 alt: image-alt
 project-date: Fall 2022
